@@ -1,0 +1,10 @@
+
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
+
+# Google OAuth (Optional - for future use if you implement Google Sign-in via Supabase)
+# NEXT_PUBLIC_GOOGLE_CLIENT_ID="YOUR_GOOGLE_CLIENT_ID"
+# NEXT_PUBLIC_GOOGLE_CLIENT_SECRET="YOUR_GOOGLE_CLIENT_SECRET"
+
+# Genkit related (if you use specific API keys directly, though usually handled by GOOGLE_APPLICATION_CREDENTIALS or gcloud auth)
+GOOGLE_API_KEY=
